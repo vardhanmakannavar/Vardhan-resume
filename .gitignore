@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Lock files
+package-lock.json
+
+# Env files
+.env
+
+# Optional editor files
+.vscode/
+.DS_Store
